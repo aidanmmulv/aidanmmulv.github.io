@@ -4,26 +4,14 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hey there! My name is Aidan, and I am a young computer engineer trying to make my way. I graduated from UW Madison with a double major in Computer Engineering and Computer Science in 2024. After which, I again graduated from UW Madison with my Master's degree in Electrical and Computer Engineering in 2025. During my time as a graduate student, I focused my studies on computer architecture and dabbled in VLSI and physical design.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+After a brief tenure at the RISC-V embracing silicon startup Rivos, I now find myself working on MTIA at Meta.
 
-## Features
+## Hobbies
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- Hiking & camping. Sometimes, you gotta get away from how hectic working on chips can be and touch grass every now and then.
+- Plant parenting.
+- LEGO. I have too many sets, I don't know where to put them all.
+- Record collecting.
+- Video games. Please, ask me about Half-Life.
