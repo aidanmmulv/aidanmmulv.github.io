@@ -18,4 +18,4 @@ After a brief tenure at the RISC-V embracing silicon startup Rivos, I now find m
 
 ## Resume
 
-<iframe src="{{ site.baseurl }}/files/amulvaney-new-resume.pdf" style="width:1200px; height:1000px; display:block;" frameborder="0"></iframe>
+<iframe src="{{ site.baseurl }}/files/amulvaney-new-resume.pdf" style="width:1200px; height:1000px; display:block; margin-left: auto; margin-right: auto;" frameborder="0"></iframe>
