@@ -15,3 +15,7 @@ After a brief tenure at the RISC-V embracing silicon startup Rivos, I now find m
 - LEGO. I have too many sets, I don't know where to put them all.
 - Record collecting.
 - Video games. Please, ask me about Half-Life.
+
+## Resume
+
+<iframe src="{{ site.baseurl }}/files/amulvaney-new-resume.pdf" style="width:1200px; height:1000px;" frameborder="0"></iframe>
